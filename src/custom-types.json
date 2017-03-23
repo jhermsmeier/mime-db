@@ -140,6 +140,16 @@
   "application/tar": {
     "compressible": true
   },
+  "application/vhd": {
+    "extensions": ["vhd"],
+    "compressible": true,
+    "notes": "Microsoft Virtual Hard Disk"
+  },
+  "application/vhdx": {
+    "extensions": ["vhdx"],
+    "compressible": true,
+    "notes": "Microsoft Virtual Hard Disk"
+  },
   "application/vnd.android.package-archive": {
     "compressible": false
   },
